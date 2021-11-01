@@ -33,7 +33,7 @@ class NativeActionSheet {
           vertical: 8,
         ),
         child: DefaultTextStyle(
-          style: material.Theme.of(context).textTheme.title,
+          style: material.Theme.of(context).textTheme.headline6,
           child: title,
         ),
       )

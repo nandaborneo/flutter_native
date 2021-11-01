@@ -1,6 +1,6 @@
 name: flutter_native
 description: A new Flutter package for managing UI&#x2F;UX natively for both Android and iOS platform.
-version: 0.0.1
+version: 0.0.2
 author: Eyro Labs <maulana@cubeacon.com>
 homepage: https://github.com/eyro-labs/flutter_native
 
